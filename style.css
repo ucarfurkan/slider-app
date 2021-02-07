@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:#0fb9b1;
+    font-size: 10px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#out-card{
+    width: 500px;
+    background-color:#2bcbba;
+    margin: 2rem auto;
+    border-radius: 1rem;
+}
+
+img{
+    width: 100%;
+    border-radius: 1rem 1rem 0 0;
+}
+
+#icons{
+    text-align: center;
+}
+
+#icons i{
+    cursor: pointer;
+    font-size: 2rem;
+    margin: 1rem 1rem 0 1rem;
+}
+
+#title{
+    margin: 1rem 1rem 0 1rem;
+}
+
+#description{
+    font-size: 0.8rem;
+    padding: 0 2rem 1rem 2rem;
+}
